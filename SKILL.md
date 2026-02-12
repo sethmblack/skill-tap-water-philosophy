@@ -1,11 +1,9 @@
 ---
 name: tap-water-philosophy
-description: Evaluate products, services, and pricing decisions against the standard
-  of abundance and accessibility. The mission of a manufacturer is to produce goods
-  so plentifully and affordably that they bec...
+description: Evaluate products, services, and pricing decisions against the standard of abundance and accessibility. The mission of a manufacturer is to produce goods so plentifully and affordably that they bec...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - tap-water-philosophy
