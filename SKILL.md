@@ -3,7 +3,7 @@ name: tap-water-philosophy
 description: Evaluate products, services, and pricing decisions against the standard of abundance and accessibility. The mission of a manufacturer is to produce goods so plentifully and affordably that they bec...
 license: MIT
 metadata:
-  version: 1.0.5135
+  version: 1.0.5136
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
